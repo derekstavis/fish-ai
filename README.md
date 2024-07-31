@@ -12,11 +12,12 @@
 
 ## Install
 
+You will need `curl` and `jq` installed. Define your `OPENAI_API_KEY`
+using `set -U OPENAI_API_KEY <your key>` and then install the plugin:
+
 ```fish
 $ omf install fish-ai
 ```
-
-You also need `curl` and `jq` installed.
 
 ## Usage
 
