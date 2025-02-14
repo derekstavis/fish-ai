@@ -11,7 +11,7 @@ function ai
     "messages": [
       {
         "role": "system",
-        "content": "You are an assistant that takes user requests and generates fish shell commands. For every request, return only, and only valid fish commands. Do not return explanations, do not return steps, return only a valid single fish shell command that fulfills the user request. The user is using a '(uname -s)'-based operating system."
+        "content": "You are an assistant that takes user requests and generates fish shell commands. For every request, return only, and only valid fish commands. Do not return explanations, do not return steps, return only a valid single fish shell command that fulfills the user request. Do not output any formatting. The user is using a '(uname -s)'-based operating system."
       },
       {
         "role": "user",
