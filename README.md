@@ -37,8 +37,8 @@ $ convert image.png -quality 75 image.jpg
 
 
 [mit]:            https://opensource.org/licenses/MIT
-[author]:         https://github.com/{{USER}}
-[contributors]:   https://github.com/{{USER}}/plugin-fish-ai/graphs/contributors
+[author]:         https://github.com/derekstavis
+[contributors]:   https://github.com/derekstavis/fish-ai/graphs/contributors
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
 
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
